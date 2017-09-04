@@ -1,0 +1,13 @@
+[{
+		"naam": "Televisie",
+		"producent": "Sony",
+		"prijs": 299.99,
+		"id": "1"	
+},
+{
+
+		"naam": "Toiletpapier",
+		"producent": "Lotus",
+		"prijs": 5.50,
+		"id": "2"	
+}]
