@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><registraties>
+<registratie adres="Turnhoutsebaan 20" datumBestelling="11/08/2016" hoeveelheid="1" klantNaam="Raf Boumans" produktNaam="Sony Televisie">
+
+
+</registratie>
+
+<registratie adres="Boterlaarbaan 12" datumBestelling="11/08/2015" hoeveelheid="3" klantNaam="Kevin Beckwee" produktNaam="My Little Pony Poster">
+
+
+</registratie>
+
+
+
+<registratie adres="Meistraat 5" datumBestelling="10/10/2015" hoeveelheid="2" klantNaam="Maarten" produktNaam="Bureaustoel"/><registratie adres="Beveren" datumBestelling="07/08/2014" hoeveelheid="8" klantNaam="Tom Elslander" produktNaam="Hooivork"/><registratie adres="Meistraat 5" datumBestelling="10/10/2015" hoeveelheid="2" klantNaam="Maarten" produktNaam="Bureaustoel"/><registratie adres="Beveren" datumBestelling="07/08/2014" hoeveelheid="8" klantNaam="Tom Elslander" produktNaam="Hooivork"/></registraties>
